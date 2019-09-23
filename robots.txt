@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iviopaibae.cappui.com/sitemap.xml
